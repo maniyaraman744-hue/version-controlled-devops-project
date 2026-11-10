@@ -1,10 +1,15 @@
-# Git Workflow
+## Git Best Practices
 
-1. Create feature branch.
-2. Develop new changes.
-3. Commit changes.
-4. Push feature branch.
-5. Create Pull Request.
-6. Merge into dev.
-7. Merge tested dev into main.
+- Write meaningful commit messages.
+- Create separate branches for features.
+- Review code before merging.
+- Keep the main branch stable.
+
+
+
+
+
+
+
+
 
